@@ -15,7 +15,7 @@
         "AUTO_BIO" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
     "required" : true,
-  "value" : "true"
+  "value" : "false"
     },
                 "INBOXBLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
@@ -26,7 +26,7 @@
                         "ANTIBAD" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
    
                                 "ANTIVIEWONCE" :{
@@ -38,25 +38,37 @@
                                         "ANTILINK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
         
 "GROUP_ONLY_MSG" :{
     "description" : "TYPE ONLY GROUP MSG",
     "required" : true,
-  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
+  "value" : "*Sorry... Bot Is Only Work In Group*\n\nhttps://chat.whatsapp.com/HhuNmkDxjbV1b062j9DEbj"
     },
         
         "WELCOME_MSG" :{
     "description" : "TYPE WELCOME MSG",
     "required" : true,
-  "value" : "*HELLO WELCOME TO OUR GROUP*"
+  "value" : "𝙃𝙀𝙇𝙇𝙊👋 \n\n𝙒𝙀𝙇𝘾𝙊𝙈𝙀 𝙏𝙊 𝙊𝙐𝙍 𝙂𝙍𝙊𝙐𝙋🏅"
+
+
+
+
+
+
+
+
+
+
+
+
     },
   
                 "BYE_MSG" :{
-    "description" : "TYPE BYE MSG",
+    "description" : "ya",
     "required" : true,
-  "value" : "*BYE BRO*"
+  "value" : "𝙆𝙇𝙐𝘼𝙍 𝙆𝘼𝙍𝙉𝘼 𝙐𝘿𝘼𝙃 𝘽𝙀𝘾𝙀𝙆 𝙒𝙆𝙒𝙆"
     },
         
         "ALIVE_MSG" :{
@@ -68,19 +80,19 @@
 "CALL_BLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
       
 "AUTO_BLOCK212" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
       
 "onlygroup" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
     
 "AUTO_REACT" :{
@@ -92,31 +104,31 @@
 "OWNER_REACT_EMOJI" :{
     "description" : "TYPE ANY EMOJI TO OWNER REACT",
     "required" : true,
-  "value" : "🧑"
+  "value" : "👑"
     },
       
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "6285807264974"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "6285807264974"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "6285807264974"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "Sιмple Wнαтѕαpp Boт"
     },
       
 "OWNER_NAME" :{
@@ -128,31 +140,31 @@
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/HhuNmkDxjbV1b062j9DEbj"
 },
       
   "GROUP_LINK2" :{
     "description" : "TYPE GROUP LINK 2",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/HhuNmkDxjbV1b062j9DEbj"
 },
     
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "Sιмple Wнαтѕαpp Boт"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "Sιмple Wнαтѕαpp Boт"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://telegra.ph/file/9c902c43e4c2a2b2f8e08.jpg"
 },
   
   "YT_URL" :{
